@@ -1,7 +1,7 @@
 
 <p align="center">  
-  <a href="https://youtu.be/nE4v4KWBfAU">
-    <img alt="ULTRA" src="https://i.ibb.co/CzvBQHc/IMG-20250110-WA0006.jpg">
+  <a href="https://chat.whatsapp.com/BZcQH9xN8ff2WdrjHok8pJ">
+    <img alt="ULTRA" src="https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg">
   </a>
 </p>
 <p align="center">
@@ -160,7 +160,7 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
 
 ## Support & Community
 
-<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/MEGA-AI/issues">issue</a> or <a href="https://wa.me/923444844060?text=Hello+Global+Tech,+I+Need+Assistance+For+MEGA+AI">Contact Us on WhatsApp</a>.</p>
+<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/MEGA-AI/issues">issue</a> or <a href="https://wa.me/9004244736?text=Hello+Global+Tech,+I+Need+Assistance+For+MEGA+AI">Contact Us on WhatsApp</a>.</p>
 
 ---
 
@@ -192,7 +192,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GlobalTechInfo/MEGA-AI.git
+   git clone https://wa.me/9004244736/MEGA-AI.git
 ---
 
 ### 💥 Features
@@ -293,11 +293,11 @@ Submit a pull request with a detailed description of your changes.
   <a href="https://t.me/GlobalTechOwner">
     <img src="https://img.shields.io/badge/Telegram-@GlobalBotInc-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://wa.me/message/923444844060">
-    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://wa.me/message/9004244736">
+    <img src="https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg">
   </a>
   <a href="https://youtube.com/@GlobalTechInfo">
-    <img src="https://img.shields.io/badge/YouTube-@GlobalTechInfo-000000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg">
   </a>
 </p>
 ### 📄 License
@@ -438,9 +438,9 @@ npm start
 
 
 ## Main Developer
-<a href="https://github.com/GlobalTechInfo"><img src="https://github.com/GlobalTechInfo.png" width="250" height="250" alt="GlobalTechInfo"/></a>
+<a href="https://wa.me/9004244736"><img src="https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg" width="250" height="250" alt="WAJTechInfo"/></a>
   
-`MEGA-AI - By GlobalTechInfo`
+`MEGA-AI - By WAJTechInfo`
 
 
 <h2 align="center">  NOTICE
@@ -456,6 +456,6 @@ npm start
   
 <p align="center">
   
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+[![JOIN WHATSAPP CHANNEL](https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg)](https://chat.whatsapp.com/BZcQH9xN8ff2WdrjHok8pJ)
 
 --------
