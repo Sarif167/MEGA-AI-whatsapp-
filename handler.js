@@ -599,7 +599,7 @@ export async function participantsUpdate({ id, participants, action }) {
             ppgp = await this.profilePictureUrl(id, 'image')
           } catch (error) {
             console.error(`Error retrieving profile picture: ${error}`)
-            pp = 'https://i.ibb.co/9HY4wjz/a4c0b1af253197d4837ff6760d5b81c0.jpg' // Assign default image URL
+            pp = 'https://i.ibb.co/9HY4wjz/a4c0b1af253197d4837ff6760d5b81c0.jpg ' // Assign default image URL
             ppgp = 'https://i.ibb.co/9HY4wjz/a4c0b1af253197d4837ff6760d5b81c0.jpg' // Assign default image URL
           } finally {
             let text = (chat.sBye || this.bye || conn.bye || 'HELLO, @user').replace(
@@ -633,7 +633,7 @@ export async function participantsUpdate({ id, participants, action }) {
                     title: '𝕋𝕆𝕌ℂℍ ℍ𝔼ℝ𝔼',
                     body: '𝙶𝙾𝙾𝙳 𝙱𝚈𝙴 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿',
                     thumbnailUrl: leaveUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+                    sourceUrl: 'https://chat.whatsapp.com/BZcQH9xN8ff2WdrjHok8pJ',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
