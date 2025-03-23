@@ -78,9 +78,9 @@ global.author = 'GlobalTechInfo'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
 global.dygp = 'https://chat.whatsapp.com/BZcQH9xN8ff2WdrjHok8pJ'
-global.fgsc = 'https://github.com/GlobalTechInfo/MEGA-AI'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
+global.fgsc = 'https://github.com/Sarif167/MEGA-AI-whatsapp-'
+global.fgyt = 'https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg'
+global.fgpyp = 'https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg'
 global.fglog = 'https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
