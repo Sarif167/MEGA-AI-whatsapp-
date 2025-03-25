@@ -21,10 +21,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: '© 𝙶𝚕𝚘𝚋𝚊𝚕𝚃𝚎𝚌𝚑𝙸𝚗𝚏𝚘',
-        body: '© GlobalTechInfo',
+        title: '© MovieSearchAutoGroup',
+        body: '© MovieSearchAutoGroup',
         thumbnailUrl: img,
-        sourceUrl: 'https://chat.whatsapp.com/BZcQH9xN8ff2WdrjHok8pJ',
+        sourceUrl: 'https://wa.me/9004244736',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
