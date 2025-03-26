@@ -1,7 +1,7 @@
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender);
-  let img = 'https://i.ibb.co/99PQTxqr/8a31ab5494e4.jpg';
+  let img = 'https://i.imgur.com/s0SqG3g.jpeg';
   let con = {
     key: {
       fromMe: false,
@@ -21,10 +21,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: '© MovieSearchAutoGroup',
-        body: '© MovieSearchAutoGroup',
+        title: '© 𝙶𝚕𝚘𝚋𝚊𝚕𝚃𝚎𝚌𝚑𝙸𝚗𝚏𝚘',
+        body: '© GlobalTechInfo',
         thumbnailUrl: img,
-        sourceUrl: 'https://wa.me/9004244736',
+        sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
